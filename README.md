@@ -1,2 +1,2 @@
-# Design-vs-Art
-Summary of a designer and an artist
+# UX-Design
+Design and art projects for Bloc
